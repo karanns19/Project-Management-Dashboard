@@ -1,0 +1,18 @@
+GET http://localhost:3001/tasks
+
+###
+
+POST http://localhost:3001/task/new
+Content-Type: application/json
+
+{
+    "task": "DSA Course"
+}
+
+###
+
+DELETE http://localhost:3001/task/delete/64f19303533bf78891c7c024
+
+###
+
+PUT http://localhost:3001/task/complete/64f84f9402ecbefcf1abc14d

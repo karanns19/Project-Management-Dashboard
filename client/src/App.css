@@ -1,0 +1,96 @@
+a{
+  text-decoration: none;
+  color: white;
+  margin-left: 15%;
+  font-size: 18px;
+  padding: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button{
+  background-color: #028ffc;
+  padding: 10px;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 10px;
+}
+
+.box{
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+.aboutPage{
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.listsitem{
+  background-color: white;
+  border-radius: 10px;
+  color: #028ffc;
+  margin-top: 5px;
+}
+
+.lists{
+  height: 300px;
+  overflow-y: auto;
+}
+
+.perf{
+  height: 300px;
+  overflow-y: auto;
+}
+
+.performanceBox{
+  background-color: white;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 30px 20px;
+}
+
+.performanceBox h3{
+  color: #028ffc;
+  display: inline-block;
+}
+
+.performanceBox p{
+  color: #028ffc;
+  float: right;
+  margin-right: 20px;
+}
+
+img{
+  margin-left: 10px;
+}
+
+.modalBox{
+  margin-left: 32%;
+}
+
+.boxBg{
+  background-color: rgba(128, 128, 128, 0.1);
+  height: 750px;
+}
+
+label{
+  width: 50%;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+input{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  width: 50%;
+  margin-bottom: 30px;
+}
